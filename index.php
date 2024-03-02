@@ -6,6 +6,7 @@
     <title>Latihan</title>
 </head>
 <body>
-    
+    <h1>Testing</h1>
+    <p>halo</p>
 </body>
 </html>
